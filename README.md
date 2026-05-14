@@ -2,65 +2,52 @@
 
 # 𝐃𝐀𝐌𝐗 𝐁𝐋𝐀𝐒𝐓𝐄𝐑
 
-### 「 Developer • Bot Creator • Web System 」
+### 「 Developer • Bot Creator • System Architect 」
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+Ke+Profile+GitHub+Saya;Developer+Bot+%26+Sistem+Automasi;Membangunkan+Website+Dan+Database;DAMX+BLASTER+OFFICIAL" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Bot+%26+Automation+Developer;Building+Scalable+Web+Systems;DAMX+BLASTER+OFFICIAL" />
 
 <br>
 
 <a href="https://t.me/D4mxorx">
-<img src="https://img.shields.io/badge/Telegram-@D4mxorx-2AABEE?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-@D4mxorx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<img src="https://img.shields.io/badge/Developer-DAMX-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Aktif-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Role-Developer-3B82F6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge">
 
 </div>
 
 ---
 
-# 📌 Tentang Saya
+## 🧠 About
 
-Halo, saya **DAMX**, seorang developer yang fokus dalam pembangunan:
+I'm **DAMX** — a systems and automation developer focused on building clean, reliable, and scalable digital infrastructure.
 
-- 🤖 Bot WhatsApp & Telegram
-- 🌐 Website moden dan sistem automasi
-- 🗂️ Database berasaskan JSON
-- ⚡ API Integration & Backend System
-- 🛒 Sistem pembayaran dan panel web
+### What I Build
+- 🤖 WhatsApp & Telegram automation bots
+- 🌐 Modern web panels & backend systems
+- 🗂️ JSON-based database architectures
+- ⚡ REST API design & third-party integrations
+- 🛒 Payment systems & creator platforms
 
-Saya gemar menghasilkan sistem yang kemas, ringan, stabil dan mesra pengguna.
+I value simplicity, performance, and user-centered design in every project.
 
 ---
 
-# 🚀 Teknologi Yang Digunakan
+## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github,vscode" />
-
 </p>
 
 ---
 
-# 📊 Statistik GitHub
-
-<div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=D4mxorSteccu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4mxorSteccu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🛠️ Projek Semasa
+## 📂 Active Projects
 
 ```txt
-📂 DAMX STORE
-📂 BLASTER SYSTEM
-📂 PANEL CREATOR
-📂 PAYMENT WEBSITE
-📂 TELEGRAM BOT
-📂 DATABASE API
+DAMX STORE        •  E-commerce automation platform
+BLASTER SYSTEM    •  Multi-bot management system
+PANEL CREATOR     •  Web panel generator toolkit
+PAYMENT WEBSITE   •  Integrated payment gateway
+TELEGRAM BOT      •  Modular bot architecture
+DATABASE API      •  Lightweight JSON data service
