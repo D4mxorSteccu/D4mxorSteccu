@@ -1,64 +1,66 @@
-<h1 align="center">DAMX BLASTER</h1>
+<div align="center">
+
+# 𝐃𝐀𝐌𝐗 𝐁𝐋𝐀𝐒𝐓𝐄𝐑
+
+### 「 Developer • Bot Creator • Web System 」
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+Ke+Profile+GitHub+Saya;Developer+Bot+%26+Sistem+Automasi;Membangunkan+Website+Dan+Database;DAMX+BLASTER+OFFICIAL" />
+
+<br>
+
+<a href="https://t.me/D4mxorx">
+<img src="https://img.shields.io/badge/Telegram-@D4mxorx-2AABEE?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/badge/Developer-DAMX-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Aktif-success?style=for-the-badge">
+
+</div>
+
+---
+
+# 📌 Tentang Saya
+
+Halo, saya **DAMX**, seorang developer yang fokus dalam pembangunan:
+
+- 🤖 Bot WhatsApp & Telegram
+- 🌐 Website moden dan sistem automasi
+- 🗂️ Database berasaskan JSON
+- ⚡ API Integration & Backend System
+- 🛒 Sistem pembayaran dan panel web
+
+Saya gemar menghasilkan sistem yang kemas, ringan, stabil dan mesra pengguna.
+
+---
+
+# 🚀 Teknologi Yang Digunakan
 
 <p align="center">
-  Developer • Bot Creator • Web Designer
-</p>
 
-<p align="center">
-  <a href="https://t.me/D4mxorx">
-    <img src="https://img.shields.io/badge/Telegram-@D4mxorx-2AABEE?style=flat-square&logo=telegram&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-JavaScript-blue?style=flat-square">
-</p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github,vscode" />
 
----
-
-## About Me
-
-Hi, I'm DAMX — a developer focused on building automation systems, WhatsApp bots, Telegram integrations, and modern web interfaces.
-
-I enjoy creating systems that are clean, efficient, and user friendly while continuously improving my skills in backend development and web technologies.
-
----
-
-## Skills
-
-- JavaScript
-- Node.js
-- HTML & CSS
-- GitHub & Git
-- JSON Database
-- Bot Development
-- REST API Integration
-
----
-
-## Current Projects
-
-- WhatsApp Bot System
-- Telegram Automation
-- Payment Website
-- Database Management System
-- Web Panel Creator
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4mxorSteccu&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4mxorSteccu&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
 
-## Contact
+# 📊 Statistik GitHub
 
-- Telegram : @D4mxorx
+<div align="center">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=D4mxorSteccu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4mxorSteccu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Focused on building better systems every day.</i>
-</p>
+# 🛠️ Projek Semasa
+
+```txt
+📂 DAMX STORE
+📂 BLASTER SYSTEM
+📂 PANEL CREATOR
+📂 PAYMENT WEBSITE
+📂 TELEGRAM BOT
+📂 DATABASE API
